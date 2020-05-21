@@ -5,7 +5,7 @@
   pmid: 31930591
   pmcid: PMC7096708
   biorxiv: 762336
-  pdf:   image: '/static/pdf/barad_2020.pdf'
+  pdf: '/static/pdf/barad_2020.pdf'
   links:
     - name: Chitin Analysis Scripts
       url: https://github.com/fraser-lab/chitin_analysis
