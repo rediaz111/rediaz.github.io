@@ -3,11 +3,12 @@ description: "This is the official web page for Roberto Efraín Díaz at UCSF."
 
 url: "http://rediaz.science"
 
+gems: [jekyll-paginate]
 paginate: 5
-plugins: [jekyll-paginate]
-paginate_path: "news/page:num"
+paginate_path: "blog/page:num"
 
 permalink: pretty
+highlighter: rouge
 markdown: kramdown
-kramdown: 
+kramdown:
   parse_block_html: true
