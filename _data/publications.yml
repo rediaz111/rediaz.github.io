@@ -21,7 +21,7 @@
 - title: "Neurological illnesses associated with Florida red tide (Karenia brevis) blooms."
   citation: '**Diaz RE**, Friedman M, Jin D, Beet A, Kirkpatrick B, Reich A, Kirkpatrick G, Ullmann SG, Fleming L, Hoagland P. *Harmful Algae*. 2019.'
   date: 201902
-  # image: '/static/img/pub/diaz_2019.jpg'
+  image: '/static/img/pub/diaz_2019.png'
   pmid: 30928012
   pdf: '/static/pdf/diaz_2019.pdf'
   # links:
