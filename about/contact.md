@@ -1,3 +1,0 @@
-##Contact Info
-#Email
-#Twitter

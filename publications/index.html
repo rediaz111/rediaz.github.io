@@ -1,5 +1,5 @@
 ---
-title: Publications from the Fraser Lab
+title: Publications by Roberto Efraín Díaz
 layout: default
 group: publications
 ---
@@ -7,7 +7,7 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-{% for publication in site.data.publications %}
+{% for publication in site.publications reversed %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
 <div style="font-size: 120% !important; width: 100%">{{ publication.title | markdownify }}</div><div>{{ publication.citation | markdownify }}</div>
@@ -97,11 +97,15 @@ group: publications
 			</li>
 			{% endif %}
 
-			<!--Extra junk-->
-			<strong>Additional Links</strong>
-			{% for link in publication.links %}
-			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-			{% endfor %}
+			<!--additional links - optional-->
+                        {% if publication.links %}
+                        <strong>Additional Links</strong>{% if publication.links.size > 1 %}s{% endif %}:
+                                {% for link in publication.links %}
+                                <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
+                                {% endfor %}
+                        {% endif %}
+
+
 	</ul>
 </div> <br>
 {% endfor %}
