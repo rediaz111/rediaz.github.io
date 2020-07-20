@@ -10,16 +10,27 @@ group: advocacy
 
 <p class="lead text-center">
 Under Construction.
-<!-- I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. I am working as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using FIB/SEM technology to quantify mitochondrial morphology and solve _in situ_ protein structures.    
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the building and validating atomic models generated from single particle electron microscopy, as well as investigating the mechanisms of activity of mammalian chitinases.    
-Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin.   
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games (tabletop, board, and video games all qualify). -->
+<br><br>
 
-500 QS video
-UCSF PRIDE Campaign
-SACNAS Member of the Month
-My Fave Queer Chemist
+[Breakfast Club, Pride Week 2 (Ep. 22): The Science & People of 500 Queer Scientists](https://www.youtube.com/watch?v=nZoxwSMxuqM&app=desktop)
+<br>
+[My Fave Queer Chemist Podcast Interview](https://twitter.com/MFQCPod) - [Spotify](https://open.spotify.com/episode/0pqEHgueMVORRGCISY5cyM) |
+[iTunes](https://podcasts.apple.com/us/podcast/my-fave-queer-chemist/id1499653504) |
+[Stitcher](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
+<br>
+[STEM Village Seminar](https://www.youtube.com/watch?v=2oMlwmTZ6b4)
+<br>
+[500 Queer Scientists: Celebrating Diversity in STEM](https://www.youtube.com/watch?v=k0LGhk8FwjM)
+<br>
+[500 Queer Scientists Profile](https://500queerscientists.com/roberto-efrain-diaz/)
+<br>
+[Our Authentic Selves](https://www.ucsf.edu/news/2019/06/414776/our-authentic-selves-ucsf-community-reflects-lgbt-progress-and-identity)
+<br>
+[SACNAS at UCSF - Member of the Month Profile][/static/img/2018_sacnas.png]
+<br>
 GPQA Fundraisers
-Out in Science Moderation
-STEM Village Seminar
+<br>
+Out in Science
+<br>
+<br>
 </p>
