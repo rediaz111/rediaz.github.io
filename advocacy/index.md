@@ -6,14 +6,10 @@ group: advocacy
 
 <!-- <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/> -->
 
-<!-- <h1 class="text-center">Roberto Efraín Díaz</h1>
-
-<p class="lead text-center">
-Under Construction.
-<br><br> -->
+<h1 class="text-center">Advocacy and Outreach</h1>
 
 <!-- <h2 class="text-left">Diversity and Outreach</h2> -->
-<h1 class="text-center">Talks and Presentations</h1>
+<h2 class="text-center">Talks and Presentations</h2>
 [STEM Village Seminar](https://www.youtube.com/watch?v=2oMlwmTZ6b4)
 <br>
 [500 Queer Scientists: Celebrating Diversity in STEM](https://www.youtube.com/watch?v=k0LGhk8FwjM)
