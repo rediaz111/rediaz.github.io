@@ -43,3 +43,6 @@ chitinases, enzyme-solid substrate interactions, structural biology, enzymology,
 - Mentored 1 student applying to Ford Foundation Predoctoral Fellowship
 
 ## Peer Review
+  - Current Opinions in Structural Biology
+  - Journal of Visualized Experiments
+  - PLOS Computational Biology
