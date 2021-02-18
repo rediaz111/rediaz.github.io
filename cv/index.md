@@ -10,6 +10,7 @@ PhD Candidate, Biochemistry and Molecular Biology, University of California, San
 
 _Thesis Advisors_: Dr. [James S. Fraser](https://fraserlab.com)
 
+
 B.S. with Honors, Neuroscience, University of Miami
 
 _Thesis_: Modifying transcription factor CREB with transactivation domains VP16 and VP64 to increase neurite outgrowth
