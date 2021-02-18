@@ -13,7 +13,7 @@ Under Construction.
 <br><br>
 
 <!-- <h2 class="text-left">Diversity and Outreach</h2> -->
-<h2 class="text-left">Talks and Presentations</h2>
+<h1 class="text-center">Talks and Presentations</h1>
 [STEM Village Seminar](https://www.youtube.com/watch?v=2oMlwmTZ6b4)
 <br>
 [500 Queer Scientists: Celebrating Diversity in STEM](https://www.youtube.com/watch?v=k0LGhk8FwjM)
@@ -36,5 +36,6 @@ GPQA Fundraisers
 <br>
 Out in Science
 <br>
+[Trans Visibility in the Sciences](https://www.youtube.com/watch?v=lUoRbK7OLPg)
 <br>
 </p>
