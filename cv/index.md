@@ -5,7 +5,7 @@ layout: default
 max_width: 1000px
 
 ---
-# Education
+## Education
 PhD Candidate, Biochemistry and Molecular Biology, University of California, San Francisco
 
 _Thesis Advisor_: Dr. [James S. Fraser](https://fraserlab.com)
