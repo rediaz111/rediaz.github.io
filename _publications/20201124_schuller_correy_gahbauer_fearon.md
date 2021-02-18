@@ -4,8 +4,8 @@ citation: "Schuller M&#42;, Correy GJ&#42;, Gahbauer S&#42;, Fearon D&#42;, Wu T
 date: '2020-11-24'
 image: '/static/img/pub/2020_schuller_correy_gahbauer_fearon.jpg'
 pdf: 'https://fraserlab.com/macrodomain/'
-# pmid: ''
-# pmcid: ''
+pmid: ''
+pmcid: ''
 biorxiv: 2020.11.24.393405
 pdf: 'http://cdn.fraserlab.com/publications/20201124_schuller_correy_gahbauer_fearon.pdf'
 zenodo:
