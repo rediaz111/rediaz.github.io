@@ -42,3 +42,23 @@ chitinases, enzyme-solid substrate interactions, structural biology, enzymology,
   - Current Opinions in Structural Biology
   - Journal of Visualized Experiments
   - PLOS Computational Biology
+
+## University Service
+- Program Manager for Diversity and Outreach of UCSF Graduate Division - Search Committee
+  - December 2020
+- Graduate Division Task Force
+  - June 2020-April 2021
+- Diversity and Allyship Breakfast - Panelist
+  - 2018-Present
+- Queer Institute - Panelist
+  - March 2020
+- Assistant Director of UCSF LGBT Resource Center - Search Committee
+  - August 2019
+- Assistant Director of UCSF Multicultural Resource Center - Search Committee
+  - August 2019
+- UC LEADS Panel - Panelist
+  - August 2018
+- NIH Bridges to Baccalaureate - Panelist
+  - July 2018
+- Director of UCSF Student Health and Counseling Services - Search Committee
+  - June 2018
