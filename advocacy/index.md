@@ -6,11 +6,11 @@ group: advocacy
 
 <!-- <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/> -->
 
-<h1 class="text-center">Roberto Efraín Díaz</h1>
+<!-- <h1 class="text-center">Roberto Efraín Díaz</h1>
 
 <p class="lead text-center">
 Under Construction.
-<br><br>
+<br><br> -->
 
 <!-- <h2 class="text-left">Diversity and Outreach</h2> -->
 <h1 class="text-center">Talks and Presentations</h1>
