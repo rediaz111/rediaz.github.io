@@ -1,0 +1,17 @@
+---
+title: Media and Outreach
+layout: default
+group: media
+---
+<div class="row">
+<h1>Media and Outreach</h1>
+{% for talk in site.media reversed | sort: "date" %}
+<hr>
+<h2>{{talk.title | markdownify | remove: '<p>' | remove: '</p>'}}</h2>
+<h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
+{% if talk.description %}
+{{talk.description | markdownify | remove: '<p>' | remove: '</p>'}}
+{% endif %}
+{% endfor %}
+
+</div>
