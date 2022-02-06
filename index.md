@@ -7,12 +7,12 @@ group: home
 <br>
 
 <p class="lead text-center">
-I am a structural biologist with a special interest in visualizing enzyme conformational dynamics. I am working as a graduate student with [Dr. James Fraser](http://fraserlab.com), using X-ray crystallography and enzymology to characterize pH-specificity of mammalian chitinases.
+I am a structural biologist with a special interest in visualizing enzyme conformational dynamics. I am working as a graduate student with [Dr. James Fraser](http://fraserlab.com "Fraser lab at UCSF (opens in new tab)"){:target="_blank"}, using X-ray crystallography and enzymology to characterize pH-specificity of mammalian chitinases.
 
 <br>
 <br>
 
-I received my B.S. with Honors in neuroscience from the University of Miami, where I worked with [Dr. Vance Lemmon](https://www.lembixlab.net/) studying the role of transcription factor hyperactivation in CNS axon regeneration.
+I received my B.S. with Honors in neuroscience from the University of Miami, where I worked with [Dr. Vance Lemmon](https://www.lembixlab.net/ "Lembix lab at the University of Miami (opens in new tab)"){:target="_blank"} studying the role of transcription factor hyperactivation in CNS axon regeneration.
 
 <br>
 <br>
