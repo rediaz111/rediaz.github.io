@@ -1,17 +1,27 @@
 ---
 name: Home
-layout: default
+layout: home
 group: home
 ---
-
-<!-- <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/> -->
-
 <h1 class="text-center">Roberto Efraín Díaz</h1>
+<br>
 
 <p class="lead text-center">
-Under Construction.
-<!-- I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. I am working as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using FIB/SEM technology to quantify mitochondrial morphology and solve _in situ_ protein structures.    
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the building and validating atomic models generated from single particle electron microscopy, as well as investigating the mechanisms of activity of mammalian chitinases.    
-Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin.   
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games (tabletop, board, and video games all qualify). -->
+I am a structural biologist with a special interest in visualizing enzyme conformational dynamics. I am working as a graduate student with [Dr. James Fraser](http://fraserlab.com), using X-ray crystallography and enzymology to characterize pH-specificity of mammalian chitinases.
+
+<br>
+<br>
+
+I received my B.S. with Honors in neuroscience from the University of Miami, where I worked with [Dr. Vance Lemmon](https://www.lembixlab.net/) studying the role of transcription factor hyperactivation in CNS axon regeneration.
+
+<br>
+<br>
+
+Beyond my scientific interests, I am excited about diversity, equity, inclusion, and justice, open access, and the interplay between basic science and society.
 </p>
+<br>
+<br>
+
+<footer class="text-center">
+  What we don't see, we assume can't be. <br> What a destructive assumption.
+  <footer class="blockquote-footer">Octavia Butler.
