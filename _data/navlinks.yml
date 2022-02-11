@@ -10,10 +10,10 @@
   url: /publications
   group: publications
 
-# - name: advocacy
-#   url: /advocacy
-#   group: advocacy
-#
+- name: advocacy
+  url: /advocacy
+  group: advocacy
+
 - name: media
   url: /media
   group: media

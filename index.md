@@ -22,6 +22,10 @@ Beyond my scientific interests, I am excited about diversity, equity, inclusion,
 <br>
 <br>
 
-<footer class="text-center">
-  What we don't see, we assume can't be. <br> What a destructive assumption.
-  <footer class="blockquote-footer">Octavia Butler.
+<footer class="blockquote-footer; text-center" style="font-size: 16px">
+  <em>
+  What we don't see, we assume can't be.<br>
+  What a destructive assumption.<br>
+  </em>
+  Octavia Butler
+</footer>

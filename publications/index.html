@@ -9,12 +9,13 @@ group: publications
 {% for publication in site.publications reversed | sort: "pub_date" %}
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div><h2>{{ publication.title | markdownify }}</h2>
-{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
-<!-- {% if publication.journal %}
-<i>{{ publication.journal }}.</i>
-{{publication.pub_date | split: "-" | first }}. -->
-</div>
+	<div>
+		<h2>{{ publication.title | markdownify }}</h2>
+		{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+		<!-- {% if publication.journal %}
+		<i>{{ publication.journal }}.</i>
+		{{publication.pub_date | split: "-" | first }}. -->
+	</div>
 <!-- {% else %}
 <i>Submitted - Preprint on Biorxiv.</i>
 {% if publication.biorxiv %}
