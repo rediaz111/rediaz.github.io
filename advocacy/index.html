@@ -3,21 +3,21 @@ title: Advocacy
 layout: default
 group: advocacy
 ---
-
 <h1>Advocacy</h1>
 <div class="container-fluid">
-
-{% for talk in site.advocacy reversed | sort: "date" %}
 <hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div><h2>{{ talk.title | markdownify }}</h2>
-<h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
-{% if talk.description %}
-<h5><i>{{ talk.description  | markdownify }}</i></h5>
-{% endif %}
-<!-- {{talk.date | split: "-" | first }}.</div> -->
 
-</div>
+{% for talk in site.advocacy reversed | sort: "date" %}<hr>
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
+	<div>
+		<h2>{{ talk.title | markdownify }}</h2>
+		<h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
+		{% if talk.description %}
+			<h5><i>{{ talk.description  | markdownify }}</i></h5>
+		{% endif %}
+	<!-- {{talk.date | split: "-" | first }}.</div> -->
+	</div>
+
 <div class="row" style="padding-top: 20px; margin-top: -20px">
 	<div class="col-sm-6">
 	</div>
@@ -27,6 +27,10 @@ group: advocacy
 {% endfor %}
 </div>
 
-<footer class="text-center">
-  <p class="mb-0">“Any community seriously concerned with its own freedom <br> has to be concerned about other peoples’ freedom as well.</p>
-  <footer class="blockquote-footer">Assata Shakur
+<footer class="blockquote-footer; text-center" style="font-size: 16px">
+  <em>
+  Any community seriously concerned with its own freedom <br>
+	has to be concerned about other peoples’ freedom as well.<br>
+  </em>
+  Assata Shakur
+</footer>

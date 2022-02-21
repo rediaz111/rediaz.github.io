@@ -3,26 +3,28 @@ title: Media and Outreach
 layout: default
 group: media
 ---
-<div class="row">
 <h1>Media and Outreach</h1>
+<div class="container-fluid">
+
 {% for talk in site.media reversed | sort: "date" %}<hr>
-{% if talk.link %}
-<h2><a href="{{talk.link}}" title =  "{{talk.title}} (opens in new tab)" target="_blank">{{talk.title | markdownify | remove: '<p>' | remove: '</p>'}}</a></h2>
-{% else %}
-<h2> {{ talk.title | markdownify | remove: '<p>' | remove: '</p>'}}</h2>
-{% endif %}
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
+	<div>
+  {% if talk.link %}
+    <h2><a href="{{talk.link}}" title =  "{{talk.title}} (opens in new tab)" target="_blank">{{talk.title | markdownify | remove: '<p>' | remove: '</p>'}}</a></h2>
+  {% else %}
+    <h2> {{ talk.title | markdownify | remove: '<p>' | remove: '</p>'}}</h2>
+  {% endif %}
 
-<h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
-{% if talk.description %}
-{{talk.description | markdownify | remove: '<p>' | remove: '</p>'}}<br>
-{% endif %}
+  <h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
+  {% if talk.description %}
+    {{talk.description | markdownify | remove: '<p>' | remove: '</p>'}}<br>
+  {% endif %}
 
-{% if talk.link contains 'youtube' %}
-<br>
-{% assign youtubeID = talk.link | split: "=" | last | remove: '<p>' | remove: '</p>' %}
-{% include youtubePlayer.html id=youtubeID %}
-{% endif %}
-
+  {% if talk.link contains 'youtube' %}
+    <br>
+    {% assign youtubeID = talk.link | split: "=" | last | remove: '<p>' | remove: '</p>' %}
+    {% include youtubePlayer.html id=youtubeID %}
+  {% endif %}
 {% endfor %}
-
+  </div>
 </div>

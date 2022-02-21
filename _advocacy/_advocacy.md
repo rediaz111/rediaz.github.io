@@ -7,6 +7,8 @@ Out in Science
 </p>
 
 <h2 class="text-left">Diversity and Outreach</h2>
+- American Institute for Biological Sciences - Panelist
+  - November 2021
 - Queer Institute - Panelist
   - March 2020
 - LGBTQ Student Association - Graduate Division Representative
@@ -20,7 +22,7 @@ Out in Science
 - Diversity Network Initiative - Co-Founder
   - 2018-Present
 - Graduate and Postdoc Queer Alliance - President
-  - 2019-2020
+  - 2019-2021
 - Out in Science - Moderator
   - May 2019
 - Diversity and Allyship Breakfast - Co-Organizer

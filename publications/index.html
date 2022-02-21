@@ -6,9 +6,8 @@ group: publications
 <h1>Publications</h1>
 <div class="container-fluid">
 
-{% for publication in site.publications reversed | sort: "pub_date" %}
-<hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
+{% for publication in site.publications reversed | sort: "pub_date" %}<hr>
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
 	<div>
 		<h2>{{ publication.title | markdownify }}</h2>
 		{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
