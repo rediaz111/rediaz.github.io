@@ -3,7 +3,7 @@ title: Roberto Efraín Díaz
 layout: default
 group: cv
 ---
-<h4 class="page-header text-center"> A complete version of my CV can be found [here](/static/pdf/Diaz_CV.pdf "Link to PDF of Roberto Efraín Díaz's CV"){:target="_blank"}</h4>
+<h4 class="page-header text-center"> A complete version of my CV can be found [here](/static/pdf/Diaz_CV_2022.pdf "Link to PDF of Roberto Efraín Díaz's CV"){:target="_blank"}</h4>
 
 <h1>Education</h1>
 <div class="row">
