@@ -7,15 +7,13 @@ group: advocacy
 <div class="container-fluid">
 <hr>
 
-{% for talk in site.advocacy reversed | sort: "date" %}<hr>
+{% for project in site.advocacy reversed | sort: "date" %}<hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
 	<div>
-		<h2>{{ talk.title | markdownify }}</h2>
-		<h4>Invited by: {{ talk.organization | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
-		{% if talk.description %}
-			<h5><i>{{ talk.description  | markdownify }}</i></h5>
+		<h2>{{ project.title | markdownify }}</h2>
+		{% if project.description %}
+			<h4>{{ project.description  | markdownify }}</h4>
 		{% endif %}
-	<!-- {{talk.date | split: "-" | first }}.</div> -->
 	</div>
 
 <div class="row" style="padding-top: 20px; margin-top: -20px">
